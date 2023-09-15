@@ -1,1 +1,1 @@
-Conflict strings on the local repository
+Conflict string of the remote repository
